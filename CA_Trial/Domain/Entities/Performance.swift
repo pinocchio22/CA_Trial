@@ -9,7 +9,7 @@ import Foundation
 
 struct Performance {
     let codename, guname, title, date: String
-    let place, orgName, useTrgt: String
+    let place, orgName, useTrgt, useFee: String
     let player: String
     let program: String
     let etcDesc: String
